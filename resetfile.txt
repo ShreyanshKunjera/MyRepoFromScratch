@@ -1,2 +1,0 @@
-This is reset file.
-This line is for usage of  reset function
