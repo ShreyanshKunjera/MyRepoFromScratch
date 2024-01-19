@@ -1,3 +1,2 @@
 This is reset file.
-This is the newest line even though it is before the last line
 This line is for usage of  reset function
